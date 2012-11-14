@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loyalty Wallet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_scanner_class">ScannerClass</string>
+    <string name="title_activity_main">Test application</string>
+    <string name="NOCARDS">no cards found</string>
+    <string name="ADDCARD">add card</string>
+    <string name="title_activity_show_card">ShowCardActivity</string>
+    <string name="showCard">Show last scanned Card</string>
+
+</resources>
